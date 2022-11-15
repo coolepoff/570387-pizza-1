@@ -1,6 +1,6 @@
 # Личный проект «VuePizza»
 
-* Студент: [Алексей Нерченко](https://up.htmlacademy.ru/vue/1/user/570387).
+* Студент: [Алексей Кулепов](https://up.htmlacademy.ru/vue/1/user/570387).
 
 ---
 
